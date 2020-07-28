@@ -80,5 +80,7 @@ The complete list of variables of each feature vector is available in 'features.
 # Files included with submission:
 
 CodeBook.md : a description of the dataset, all variables, and data cleansing 
+
 Run_analysis.R : all data cleansing and preparation performed before analysis stage
+
 TidyData : output file of the run_analysis.R file which is the second, independent tidy data set
